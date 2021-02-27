@@ -1,0 +1,20 @@
+@font-face{
+    font-family:'OS-R';
+    src: url('../font/OpenSans-Regular.woff') format('woff');
+    src: url('../font/OpenSans-Regular.woff2') format('woff2');
+    display: fallback;
+}
+
+@font-face{
+    font-family: 'OS-S';
+    src: url('../font/OpenSans-SemiBold.woff') format('woff');
+    src: url('../font/OpenSans-SemiBold.woff2') format('woff2');
+    display: fallback;
+}
+
+@font-face{
+    font-family: 'R-S';
+    src: url('../font/Raleway-SemiBold.woff') format('woff');
+    src: url('../font/Raleway-SemiBold.woff2') format('woff2');
+    display: fallback;
+}
